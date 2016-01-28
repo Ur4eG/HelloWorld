@@ -7,5 +7,8 @@ package home.ur4eg.dev.simple;
 public class HelloGitHub {
     public static void main(String[] args) {
         System.out.println("Hello github");
+        
+        //edit in GitHub (web) for pushing into native project
+        System.out.println("Push me");
     }
 }

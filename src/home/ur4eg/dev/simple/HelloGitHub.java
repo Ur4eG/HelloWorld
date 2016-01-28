@@ -10,5 +10,7 @@ public class HelloGitHub {
         
         //edit in GitHub (web) for pushing into native project
         System.out.println("Push me");
+        //
+        System.out.println("got it)");
     }
 }
